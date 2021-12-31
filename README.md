@@ -1,7 +1,9 @@
 <p>🎓 MSc in Information and Enterprise Systems at Instituto Superior Técnico and Univerisdade Aberta, in progress</p>
 <p>🎓 Professional Certification in Computer Science for Web Programming at Harvard University</p>
 <p>🎓 BSc in Computer Science and Business Management at Universidade Lusófona, 15/20</p>
+
 ##
+
 <div align="center">
   <a href="https://github.com/midupe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=midupe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
