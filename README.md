@@ -1,6 +1,7 @@
-<p>🎓 MSc in Information and Enterprise Systems at Instituto Superior Técnico and Univerisdade Aberta, in progress (current 16/20)</p>
+<p>🎓 MSc in Information and Enterprise Systems at Instituto Superior Técnico (IST) and Univerisdade Aberta (UAb), in progress (current 16.38/20)</p>
 <p>🎓 Professional Certification in Computer Science for Web Programming at Harvard University</p>
-<p>🎓 BSc in Computer Science and Business Management at Universidade Lusófona, 15/20</p>
+<p>🎓 Mini-MBA in Business Management at International Business Management Institute (IBMI), in progress</p>
+<p>🎓 BSc in Computer Science and Business Management at Universidade Lusófona (ULHT), 15/20</p>
 
 ##
 
