@@ -1,4 +1,4 @@
-## Hello! 👋
+## Hello world! 👋
 
 
 <p>👨‍💻 Software Developer at Euroed II - Distribuição, Lda.</p>
