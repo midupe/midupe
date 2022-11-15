@@ -1,3 +1,7 @@
+Hello! 👋
+
+##
+
 <p>👨‍💻 Software Developer at Euroed II - Distribuição, Lda.</p>
 <p>🎓 MSc in Information and Enterprise Systems at Instituto Superior Técnico (IST) and Univerisdade Aberta (UAb), in progress (current 16.38/20)</p>
 <p>🎓 Professional Certification in Computer Science for Web Programming at Harvard University</p>
