@@ -32,8 +32,9 @@
   ##
  
 <div> 
+  <a href="https://blog.midupe.pt/" target="_blank"><img  src="https://img.shields.io/badge/Portfolio-%23cf2e2e.svg?style=for-the-badge&logo=WordPress&logoColor=#FF7139"></a>
   <a href="https://www.linkedin.com/in/miguelduartepereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:miguelpereira2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:miguelpereira2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img align="right" src="https://komarev.com/ghpvc/?username=midupe&color=DD6387&style=flat-square">
 </div>
   
