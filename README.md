@@ -8,7 +8,7 @@
 <p>🎓 BSc in Computer Science and Business Management at Universidade Lusófona (ULHT), 15/20</p>
 
 ##
-
+<!--
 <div align="center">
   <a href="https://github.com/midupe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=midupe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -30,7 +30,7 @@
 </div>
   
   ##
- 
+--> 
 <div> 
   <a href="https://blog.midupe.pt/" target="_blank"><img  src="https://img.shields.io/badge/Portfolio-%23cf2e2e.svg?style=for-the-badge&logo=WordPress&logoColor=#FF7139"></a>
   <a href="https://www.linkedin.com/in/miguelduartepereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
