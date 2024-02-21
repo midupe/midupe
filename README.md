@@ -1,7 +1,7 @@
 ## Hello world! 👋
 
-
-<p>👨‍💻 Software Developer at Euroed II - Distribuição, Lda.</p>
+<p>👨‍💻 Digital Transformation Manager at ABR - Equipamentos Industriais, Lda.</p>
+<p>👨‍💻 Full Stack Developer at Euroed II - Distribuição, Lda.</p>
 <p>🎓 MSc in Information and Enterprise Systems at Instituto Superior Técnico (IST) and Univerisdade Aberta (UAb), in progress (current 16.4/20)</p>
 <p>🎓 Professional Certification in Computer Science for Web Programming at Harvard University</p>
 <p>🎓 Mini-MBA in Business Management at International Business Management Institute (IBMI)</p>
